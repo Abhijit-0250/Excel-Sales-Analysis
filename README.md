@@ -5,8 +5,10 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/Abhijit-0250/Excel-Sales-Analysis/blob/main/AtliQ%20Customer%20Performance%20report.pdf)
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Abhijit-0250/Excel-Sales-Analysis/blob/main/AtliQ%20Mrkt%20Prfrmnc%20vs%20trgt%20report.pdf)
+   **1.** Create a _[customer performance report](https://github.com/Abhijit-0250/Excel-Sales-Analysis/blob/main/AtliQ%20Customer%20Performance%20report.pdf)
+
+
+  **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Abhijit-0250/Excel-Sales-Analysis/blob/main/AtliQ%20Mrkt%20Prfrmnc%20vs%20trgt%20report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
